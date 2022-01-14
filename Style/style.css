@@ -1,0 +1,37 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+input{
+    width: 20rem;
+    border-radius: 7px;
+}
+select{
+    width: 20rem;
+    border-radius: 7px;
+}
+button{
+    width: 4rem;
+    height: 3rem;
+    border-radius: 6px !important;
+}
+.pano{
+    height: 5rem;
+    border-radius: 7px;
+}
+.leftsidebar{
+    border-radius: 0px 15px 15px 0px;
+    box-shadow: 15px 10px 15px rgba(92,99,105,.2);
+}
+.rightsidebar{
+    border-radius: 0px 15px 15px 0px;
+    box-shadow: 15px 10px 15px rgba(92,99,105,.2);
+}
+th{
+    align-items: left;
+    border-bottom: 2px solid rgb(39, 107, 48);
+    font-family: "roboto", sans-serif;
+    font-weight: 400;
+    padding: 6px;
+    color: rgb(20, 19, 19);
+    font-size: 19px;
+}

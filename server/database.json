@@ -1,0 +1,36 @@
+{
+  "movies": [
+    {
+      "movieid": "1",
+      "moviename": "Spiderman",
+      "releasedate": "2022-01-14",
+      "movierating": "9",
+      "filmindustry": "Hollywood",
+      "id": 1
+    },
+    {
+      "movieid": "2",
+      "moviename": "Batman",
+      "releasedate": "2022-01-14",
+      "movierating": "9",
+      "filmindustry": "Hollywood",
+      "id": 2
+    },
+    {
+      "movieid": "3",
+      "moviename": "Aquaman",
+      "releasedate": "2022-01-14",
+      "movierating": "7",
+      "filmindustry": "Hollywood",
+      "id": 3
+    },
+    {
+      "movieid": "4",
+      "moviename": "Chasing the Dragon",
+      "releasedate": "2022-01-14",
+      "movierating": "9",
+      "filmindustry": "Cinema of China",
+      "id": 4
+    }
+  ]
+}
